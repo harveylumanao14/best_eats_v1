@@ -71,7 +71,7 @@ const Login = () => {
 
                     <div className='flex justify-between'>
                         <p className='flex items-center'> <input className='mr-2' type='checkbox' /> Remember Me </p>
-                        <p className='cursor-pointer'> Forgot Password?</p>
+                        <p className='cursor-pointer'> Forgot Passwor?</p>
                     </div>
 
                     <div className='w-full flex flex-col py-4'>
